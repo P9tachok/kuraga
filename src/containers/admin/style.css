@@ -1,0 +1,12 @@
+.admin-container {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 100vh;
+    margin-left: 40%;
+}
+
+#shortcut {
+    width: 300px;
+}

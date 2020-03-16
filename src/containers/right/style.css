@@ -1,0 +1,23 @@
+.rightSidebar {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 30px 30px 30px;
+    margin: 10px;
+    background-color: var(--white);
+    border-radius: 10px;
+}
+.logo-container {
+    display: flex;
+    align-self: flex-end;
+    align-items: center;
+}
+.logo {
+    width: 60px;
+    height: auto;
+}
+
+.line {
+    width: 100%;
+    border: 0.3px solid var(--left-sidebar)
+}
+
